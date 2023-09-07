@@ -1,0 +1,10 @@
+local GL = game.Lighting
+
+
+GL.FogColor = Color3.fromRGB(217, 217, 217)
+GL.FogStart = 0
+GL.FogEnd = 10000
+
+GL.ClockTime = 1.5
+GL.Brightness = 0
+GL.GlobalShadows = true
