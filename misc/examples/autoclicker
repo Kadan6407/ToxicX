@@ -1,0 +1,5 @@
+while true do
+wait()
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Bubble Wand").ClickEvent:FireServer()
+wait()
+end
